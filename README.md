@@ -41,6 +41,7 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2611.09672"><b>Paper</b></a> ·
   <a href="https://wang-qishen.github.io/odeaction-website/"><b>Project Page</b></a> ·
+  <a href="https://wang-qishen.github.io/odeaction-website/video/"><b>Video</b></a> ·
   <a href="docs/real_robot.md"><b>Real-Robot Guide</b></a>
 </p>
 
