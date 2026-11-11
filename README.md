@@ -68,17 +68,14 @@ To train and deploy ODEAction on real-world robots, follow the [**Cobot Magic ex
 If you find this work useful, please cite:
 
 ```bibtex
-@misc{wang2026odeaction,
-  title         = {ODEAction: From Predicting Chunks to Evolving Actions},
-  author        = {Wang, Qishen and Ding, Pengxiang and Bao, Shifeng and
-                   Sun, Mingyang and Li, Hengtao and Gao, Yi and Yin, Baohua and
-                   Liu, Yang and Fu, Jiajun and Liu, Jiacheng and He, Changjing and
-                   Li, Peiyang and Suo, Runze and Wang, Yan and Wang, Xiaobo and
-                   Dang, Yonghao and Chi, Cheng},
-  year          = {2026},
-  eprint        = {2611.09672},
-  archivePrefix = {arXiv},
-  primaryClass  = {cs.RO}
+@misc{wang2026odeactionpredictingchunksevolving,
+      title={ODEAction: From Predicting Chunks to Evolving Actions},
+      author={Qishen Wang and Pengxiang Ding and Shifeng Bao and Mingyang Sun and Hengtao Li and Yi Gao and Baohua Yin and Yang Liu and Jiajun Fu and Jiacheng Liu and Changjing He and Peiyang Li and Runze Suo and Yan Wang and Xiaobo Wang and Yonghao Dang and Cheng Chi},
+      year={2026},
+      eprint={2611.09672},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2611.09672},
 }
 ```
 
