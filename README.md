@@ -84,4 +84,4 @@ If you find this work useful, please cite:
 
 ## Acknowledgments
 
-We thank Physical Intelligence for [openpi](https://github.com/Physical-Intelligence/openpi). This implementation builds on upstream commit [`650c5b0`](https://github.com/Physical-Intelligence/openpi/commit/650c5b0283a49c42784fb5055a0507da2c6d347d). The original [Apache-2.0 license](LICENSE) and [Gemma license](LICENSE_GEMMA.txt) are retained.
+We thank Physical Intelligence for [openpi](https://github.com/Physical-Intelligence/openpi). The original [Apache-2.0 license](LICENSE) and [Gemma license](LICENSE_GEMMA.txt) are retained.
